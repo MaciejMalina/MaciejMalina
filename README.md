@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Maciej 👋</h1>
 
 <p>
-####🎓 3rd-year Computer Science student at AGH University of Science and Technology in Cracow  
-####💻 Passionate about full-stack development  
-####🏔️ In my free time, I enjoy hiking, playing football, and spending time with friends
+🎓 3rd-year Computer Science student at AGH University of Science and Technology in Cracow <br/>
+💻 Passionate about full-stack development <br/>
+🏔️ In my free time, I enjoy hiking, playing football, and spending time with friends <br/>
 </p>
 
 ---
@@ -39,11 +39,11 @@
       <br/>React
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       <br/>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Postgres" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       <br/>PostgreSQL
     </td>
   </tr>
@@ -61,7 +61,7 @@
       <br/>Git
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/353860/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
+      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="48" height="48" alt="RabbitMQ" />
       <br/>RabbitMQ
     </td>
   </tr>
@@ -76,7 +76,9 @@ Community-powered app for reporting city issues – built with PHP and React
 
 ---
 
-## 🔭 I’m currently working on [Metal-Mix](https://github.com/MaciejMalina/Metal-Mix)
+## 🔭 I’m currently working on 
+
+### [Metal-Mix](https://github.com/MaciejMalina/Metal-Mix)
 Fully functional website of metal-mix company
 
 ---
