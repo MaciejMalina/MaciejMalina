@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Maciej 👋</h1>
 
 <p>
-🎓 3rd-year Computer Science student at AGH University of Science and Technology in Cracow <br/>
+🎓 3rd-year Computer Science student at Cracow University of Technology <br/>
 💻 Passionate about full-stack development <br/>
 🏔️ In my free time, I enjoy hiking, playing football, and spending time with friends <br/>
 </p>
@@ -39,7 +39,7 @@
       <br/>React
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
       <br/>Tailwind
     </td>
     <td align="center" width="96">
