@@ -39,7 +39,7 @@
       <br/>React
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="TailwindCSS" />
       <br/>Tailwind
     </td>
     <td align="center" width="96">
